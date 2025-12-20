@@ -36,6 +36,15 @@ Currently, I am focused on developing skills required for **entry-level SOC and 
 - 📚 Continuous self-study and practice
 
 ---
+## 🛡️ SOC Journey (In Progress)
+
+- 📚 Currently learning SOC fundamentals through TryHackMe
+- 🏅 Earned **First Step into SOC** badge
+- 🧠 Topics covered so far:
+  - SOC roles and workflows
+  - Emerging cyber threats
+  - Basic incident response concepts
+
 
 ## 🎯 Current Focus
 
